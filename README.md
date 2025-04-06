@@ -19,9 +19,33 @@ Academic Adviser is an AI-powered platform designed to support students with per
 ---------------
 1. 🎮 **Gamified Experience**  
    - We make the advising process engaging by turning it into an interactive, rewarding experience.
+https://github.com/user-attachments/assets/10d67435-f965-4e3f-b1de-431d80be66ad
 
 2. 🔗 **Smart Linking of Issues**  
    - Our system breaks complex academic queries into smaller, manageable “problem boxes.”
+for example 
+const comboMapping = {
+  "Anger|Meditation": {
+    label: "Volcanic Calm 🌋🧘♂",
+    description: "Transforming fiery rage into mindful clarity through breathwork."
+  },
+  "Sadness|Journaling": {
+    label: "Tears to Ink 💧🖋",
+    description: "Translating sorrow into stories, a therapeutic journey through self-expression."
+  },
+  "Fear|Exercise": {
+    label: "Brave Burn 🌑🔥",
+    description: "Converting anxiety into adrenaline, forging courage with every rep."
+  },
+  "Jealousy|Creative": {
+    label: "Envy's Canvas 💚🎨",
+    description: "Channeling comparison into vibrant self-discovery and artistic exploration."
+  },
+  "Shame|Social": {
+    label: "Healing Circles 🌀👥",
+    description: "Finding acceptance and connection through shared experiences."
+  }
+};
 
 3. 🧩 **AI Understanding**  
    - Each problem box is analyzed by the AI to understand the student's needs and recommend a personalized path.
